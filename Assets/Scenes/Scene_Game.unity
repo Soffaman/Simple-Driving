@@ -134,6 +134,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (67)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 79
@@ -288,6 +292,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (175)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 196
@@ -356,6 +364,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (48)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -449,6 +461,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (156)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -666,6 +682,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (150)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 156
@@ -820,6 +840,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 20
@@ -912,6 +936,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (77)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -1029,6 +1057,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (143)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 149
@@ -1122,6 +1154,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (73)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 85
@@ -1214,6 +1250,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (127)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -1838,6 +1878,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (39)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 51
@@ -1992,6 +2036,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (65)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -2159,6 +2207,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (124)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 130
@@ -2252,6 +2304,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (170)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 191
@@ -2320,6 +2376,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (25)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -2413,6 +2473,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (120)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -2569,6 +2633,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 27
@@ -2661,6 +2729,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (106)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -2838,6 +2910,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (110)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -3119,6 +3195,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 31
@@ -3263,6 +3343,45 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4585754608488068, guid: 77c5e335b5a9b0a48b71e2f5069280b8, type: 3}
   m_PrefabInstance: {fileID: 180080702}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &181155733
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 181155734}
+  m_Layer: 0
+  m_Name: All objects
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &181155734
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 181155733}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 686868232}
+  - {fileID: 261892175}
+  - {fileID: 860149328220661570}
+  - {fileID: 225096922}
+  - {fileID: 899329143}
+  - {fileID: 493579250}
+  - {fileID: 1696849853}
+  - {fileID: 1798961075}
+  - {fileID: 1108921224}
+  m_Father: {fileID: 0}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &187556038
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3339,6 +3458,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (56)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -3432,6 +3555,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (50)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -3718,7 +3845,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 225096921}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -3729,8 +3856,8 @@ Transform:
   - {fileID: 1064457907}
   - {fileID: 2041670059}
   - {fileID: 1494004504}
-  m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_Father: {fileID: 181155734}
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &226364820
 PrefabInstance:
@@ -3742,6 +3869,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (144)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -3897,6 +4028,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 5
@@ -3984,7 +4119,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 181155734}
     m_Modifications:
     - target: {fileID: 1095459714561772, guid: 205008ff43ce1d848b6adec4bb9ff421, type: 3}
       propertyPath: m_Name
@@ -3992,7 +4127,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4008219820542332, guid: 205008ff43ce1d848b6adec4bb9ff421, type: 3}
       propertyPath: m_RootOrder
-      value: 10
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4008219820542332, guid: 205008ff43ce1d848b6adec4bb9ff421, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4012,7 +4147,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4008219820542332, guid: 205008ff43ce1d848b6adec4bb9ff421, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 4008219820542332, guid: 205008ff43ce1d848b6adec4bb9ff421, type: 3}
       propertyPath: m_LocalRotation.y
@@ -4020,7 +4155,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4008219820542332, guid: 205008ff43ce1d848b6adec4bb9ff421, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 4008219820542332, guid: 205008ff43ce1d848b6adec4bb9ff421, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -4036,6 +4171,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 205008ff43ce1d848b6adec4bb9ff421, type: 3}
+--- !u!4 &261892175 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4008219820542332, guid: 205008ff43ce1d848b6adec4bb9ff421, type: 3}
+  m_PrefabInstance: {fileID: 261892174}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &265474729
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4046,6 +4186,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (58)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -4139,6 +4283,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (105)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -4238,6 +4386,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (41)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 53
@@ -4330,6 +4482,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (132)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -4424,6 +4580,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (141)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 147
@@ -4516,6 +4676,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (140)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -4638,6 +4802,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (136)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 142
@@ -4730,6 +4898,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (72)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -4824,6 +4996,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 7
@@ -4916,6 +5092,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (94)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -5010,6 +5190,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (91)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 103
@@ -5102,6 +5286,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (45)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -5200,6 +5388,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (86)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -5318,6 +5510,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (145)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 151
@@ -5410,6 +5606,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -5570,6 +5770,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (29)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 41
@@ -5687,6 +5891,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 6
@@ -5779,6 +5987,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (108)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -5873,6 +6085,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (112)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 118
@@ -5965,6 +6181,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -6083,6 +6303,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (35)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 47
@@ -6176,6 +6400,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (97)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 109
@@ -6268,6 +6496,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (95)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -6409,6 +6641,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (123)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -6565,6 +6801,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (32)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 44
@@ -6657,6 +6897,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (153)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -6926,6 +7170,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (30)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 42
@@ -7019,6 +7267,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (115)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 121
@@ -7111,6 +7363,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (160)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -7228,6 +7484,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (36)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 48
@@ -7333,7 +7593,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 493579249}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -7348,8 +7608,8 @@ Transform:
   - {fileID: 309386834}
   - {fileID: 1479783618}
   - {fileID: 1879352713}
-  m_Father: {fileID: 0}
-  m_RootOrder: 9
+  m_Father: {fileID: 181155734}
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &495713952
 PrefabInstance:
@@ -7695,6 +7955,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (135)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 141
@@ -7845,6 +8109,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 25
@@ -7994,6 +8262,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (85)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -8238,6 +8510,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (114)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 120
@@ -8354,6 +8630,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (155)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -8570,6 +8850,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (107)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 113
@@ -8662,6 +8946,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (109)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -8756,6 +9044,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (148)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 154
@@ -8848,6 +9140,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -8965,6 +9261,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (22)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 34
@@ -9057,6 +9357,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (55)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -9217,6 +9521,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (57)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 69
@@ -9304,7 +9612,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 181155734}
     m_Modifications:
     - target: {fileID: 1694580879278594, guid: 3758bae79debdbf41993c6f00f0d32cf, type: 3}
       propertyPath: m_Name
@@ -9312,7 +9620,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4624776774171632, guid: 3758bae79debdbf41993c6f00f0d32cf, type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4624776774171632, guid: 3758bae79debdbf41993c6f00f0d32cf, type: 3}
       propertyPath: m_LocalScale.x
@@ -9344,7 +9652,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4624776774171632, guid: 3758bae79debdbf41993c6f00f0d32cf, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 4624776774171632, guid: 3758bae79debdbf41993c6f00f0d32cf, type: 3}
       propertyPath: m_LocalRotation.y
@@ -9368,6 +9676,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3758bae79debdbf41993c6f00f0d32cf, type: 3}
+--- !u!4 &686868232 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4624776774171632, guid: 3758bae79debdbf41993c6f00f0d32cf, type: 3}
+  m_PrefabInstance: {fileID: 686868231}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
@@ -9601,6 +9914,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (88)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 100
@@ -9683,6 +10000,53 @@ CapsuleCollider:
   m_Height: 7.0881596
   m_Direction: 1
   m_Center: {x: 0, y: 3.5440798, z: 0}
+--- !u!1 &717535755
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 717535756}
+  - component: {fileID: 717535757}
+  m_Layer: 0
+  m_Name: Score Display
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &717535756
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 717535755}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1448538843}
+  m_Father: {fileID: 0}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &717535757
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 717535755}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6cf9bad31e8924f359326fb5ffa1eed3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _scoreText: {fileID: 2114343634}
+  _highScoreText: {fileID: 0}
+  _scoreMultiplier: 5
 --- !u!1001 &726801333
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9693,6 +10057,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (102)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -9762,6 +10130,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (158)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -9928,6 +10300,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (169)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -10133,6 +10509,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (100)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 178
@@ -10263,6 +10643,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (26)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 38
@@ -10355,6 +10739,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (165)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -10568,6 +10956,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (121)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 127
@@ -10727,6 +11119,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (61)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 73
@@ -10814,7 +11210,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1108921224}
     m_Modifications:
     - target: {fileID: 1234689145501694, guid: b2503d0bf03081448ae3d0b4257a08cc, type: 3}
       propertyPath: m_Name
@@ -10822,7 +11218,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4533779669609080, guid: b2503d0bf03081448ae3d0b4257a08cc, type: 3}
       propertyPath: m_RootOrder
-      value: 15
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4533779669609080, guid: b2503d0bf03081448ae3d0b4257a08cc, type: 3}
       propertyPath: m_LocalScale.x
@@ -10854,7 +11250,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4533779669609080, guid: b2503d0bf03081448ae3d0b4257a08cc, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 4533779669609080, guid: b2503d0bf03081448ae3d0b4257a08cc, type: 3}
       propertyPath: m_LocalRotation.y
@@ -10862,7 +11258,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4533779669609080, guid: b2503d0bf03081448ae3d0b4257a08cc, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 4533779669609080, guid: b2503d0bf03081448ae3d0b4257a08cc, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -10878,6 +11274,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b2503d0bf03081448ae3d0b4257a08cc, type: 3}
+--- !u!4 &791138621 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4533779669609080, guid: b2503d0bf03081448ae3d0b4257a08cc, type: 3}
+  m_PrefabInstance: {fileID: 791138620}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &792423453
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10888,6 +11289,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (33)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -10987,6 +11392,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (167)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 188
@@ -11055,6 +11464,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (76)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -11474,6 +11887,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (28)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 40
@@ -11566,6 +11983,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (157)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -11660,6 +12081,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (46)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 58
@@ -11752,6 +12177,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (43)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -11972,6 +12401,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (81)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 93
@@ -12089,6 +12522,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (37)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 49
@@ -12194,7 +12631,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 899329142}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -12270,8 +12707,8 @@ Transform:
   - {fileID: 187556039}
   - {fileID: 1317446626}
   - {fileID: 1473894948}
-  m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_Father: {fileID: 181155734}
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &912289351
 PrefabInstance:
@@ -12405,6 +12842,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (66)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -12742,6 +13183,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 26
@@ -12834,6 +13279,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (130)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -13012,6 +13461,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (164)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -13205,7 +13658,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
-  m_LocalRotation: {x: 0.10941743, y: -0.000000016585034, z: 0.0000000018256529, w: 0.9939959}
+  m_LocalRotation: {x: 0.10941745, y: 0.00000001816342, z: -0.0000000019993993, w: 0.9939959}
   m_LocalPosition: {x: -3.2, y: 15.6, z: -52.8}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
@@ -13374,6 +13827,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (154)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -13619,6 +14076,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (151)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 157
@@ -13773,6 +14234,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (122)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -14121,6 +14586,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (146)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 152
@@ -14237,6 +14706,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (68)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 80
@@ -14329,6 +14802,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (104)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -14534,6 +15011,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (171)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 192
@@ -14602,6 +15083,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (52)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -14695,6 +15180,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (59)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -14812,6 +15301,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (75)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 87
@@ -14928,6 +15421,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (139)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 145
@@ -15033,12 +15530,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1108921223}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 14
+  m_Children:
+  - {fileID: 791138621}
+  m_Father: {fileID: 181155734}
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1111412508
 PrefabInstance:
@@ -15050,6 +15548,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (126)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -15205,6 +15707,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (159)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 165
@@ -15325,6 +15831,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (131)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -15476,6 +15986,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (147)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 153
@@ -15568,6 +16082,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (31)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -15774,6 +16292,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (82)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 94
@@ -15955,6 +16477,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (54)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -16172,6 +16698,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 4
@@ -16265,6 +16795,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (93)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 105
@@ -16357,6 +16891,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (137)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -16516,6 +17054,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (173)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -16710,6 +17252,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -16803,6 +17349,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (168)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 189
@@ -16871,6 +17421,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (163)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -17043,6 +17597,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (174)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 195
@@ -17112,6 +17670,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (101)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 179
@@ -17180,6 +17742,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (129)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -17273,6 +17839,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (111)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -17418,6 +17988,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (89)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -17865,6 +18439,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (134)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 140
@@ -18051,6 +18629,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (80)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -18290,6 +18872,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (92)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -18595,6 +19181,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (21)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 33
@@ -18754,6 +19344,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (23)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 35
@@ -18846,6 +19440,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -18940,6 +19538,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (71)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 83
@@ -19032,6 +19634,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (128)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -19209,6 +19815,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (99)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -19422,6 +20032,88 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4585754608488068, guid: 77c5e335b5a9b0a48b71e2f5069280b8, type: 3}
   m_PrefabInstance: {fileID: 1441894109}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1448538842
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1448538843}
+  - component: {fileID: 1448538845}
+  - component: {fileID: 1448538844}
+  m_Layer: 0
+  m_Name: Canvas
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1448538843
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1448538842}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0, y: 0, z: 0}
+  m_Children:
+  - {fileID: 2114343633}
+  m_Father: {fileID: 717535756}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0, y: 0}
+--- !u!114 &1448538844
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1448538842}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_UiScaleMode: 1
+  m_ReferencePixelsPerUnit: 100
+  m_ScaleFactor: 1
+  m_ReferenceResolution: {x: 1792, y: 828}
+  m_ScreenMatchMode: 0
+  m_MatchWidthOrHeight: 0
+  m_PhysicalUnit: 3
+  m_FallbackScreenDPI: 96
+  m_DefaultSpriteDPI: 96
+  m_DynamicPixelsPerUnit: 1
+  m_PresetInfoIsWorld: 0
+--- !u!223 &1448538845
+Canvas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1448538842}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_RenderMode: 0
+  m_Camera: {fileID: 0}
+  m_PlaneDistance: 100
+  m_PixelPerfect: 0
+  m_ReceivesEvents: 1
+  m_OverrideSorting: 0
+  m_OverridePixelPerfect: 0
+  m_SortingBucketNormalizedSize: 0
+  m_AdditionalShaderChannelsFlag: 25
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  m_TargetDisplay: 0
 --- !u!4 &1455395166 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4924958986294772, guid: eb31c92469a6dc04ea7b5839337a7338, type: 3}
@@ -19486,13 +20178,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1455855132}
-  m_LocalRotation: {x: 0.10941743, y: -0.000000016585034, z: 0.0000000018256529, w: 0.9939959}
+  m_LocalRotation: {x: 0.10941745, y: 0.00000001816342, z: -0.0000000019993993, w: 0.9939959}
   m_LocalPosition: {x: -3.2, y: 15.6, z: -52.8}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1347489845}
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &1461803482 stripped
 Transform:
@@ -19665,6 +20357,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (51)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -19905,6 +20601,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (20)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 32
@@ -20021,6 +20721,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (83)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 95
@@ -20113,6 +20817,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (113)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -20229,6 +20937,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (142)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -20368,6 +21080,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (38)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -20523,6 +21239,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (125)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 131
@@ -20621,6 +21341,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 24
@@ -20713,6 +21437,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (98)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -20935,6 +21663,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (178)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 199
@@ -21026,6 +21758,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (103)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -21166,6 +21902,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (47)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 59
@@ -21258,6 +21998,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -21432,6 +22176,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (161)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -21769,7 +22517,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1672400600
 PrefabInstance:
@@ -21781,6 +22529,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (44)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -21874,6 +22626,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (49)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -22065,7 +22821,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1696849852}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -22281,8 +23037,8 @@ Transform:
   - {fileID: 502461485}
   - {fileID: 1325663152}
   - {fileID: 995901089}
-  m_Father: {fileID: 0}
-  m_RootOrder: 12
+  m_Father: {fileID: 181155734}
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1704498392
 PrefabInstance:
@@ -22294,6 +23050,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (34)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -22412,6 +23172,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 23
@@ -22504,6 +23268,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (118)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -22783,6 +23551,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (70)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 82
@@ -22938,6 +23710,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 28
@@ -23067,13 +23843,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1798961074}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 5.3157635, y: 12.249344, z: -27.32536}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1427145429}
-  m_Father: {fileID: 0}
-  m_RootOrder: 13
+  m_Father: {fileID: 181155734}
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1807552375
 PrefabInstance:
@@ -23085,6 +23861,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (40)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -23259,6 +24039,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (152)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 158
@@ -23413,6 +24197,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -23692,6 +24480,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (166)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 187
@@ -23822,6 +24614,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (27)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -24042,6 +24838,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (138)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -24356,6 +25156,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (84)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 96
@@ -24472,6 +25276,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (176)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -24661,6 +25469,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (149)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 155
@@ -24838,6 +25650,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (117)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 123
@@ -24931,6 +25747,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (69)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 81
@@ -25023,6 +25843,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (78)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -25122,6 +25946,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (62)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 74
@@ -25215,6 +26043,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (90)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 102
@@ -25307,6 +26139,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (162)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -25424,6 +26260,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (64)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 76
@@ -25516,6 +26356,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -25610,6 +26454,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (116)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 122
@@ -25702,6 +26550,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -25869,6 +26721,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (172)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 193
@@ -25937,6 +26793,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (96)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -26181,7 +27041,7 @@ RectTransform:
   - {fileID: 887404641}
   - {fileID: 169211223}
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -26294,6 +27154,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (42)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -26450,6 +27314,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (177)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 198
@@ -26584,6 +27452,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (60)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 72
@@ -26677,6 +27549,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (74)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 86
@@ -26769,6 +27645,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (79)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -26953,6 +27833,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (133)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 139
@@ -27046,6 +27930,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (53)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 65
@@ -27138,6 +28026,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (87)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -27249,6 +28141,140 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4585754608488068, guid: 77c5e335b5a9b0a48b71e2f5069280b8, type: 3}
   m_PrefabInstance: {fileID: 974261782}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &2114343632
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2114343633}
+  - component: {fileID: 2114343635}
+  - component: {fileID: 2114343634}
+  m_Layer: 0
+  m_Name: ScoreText
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &2114343633
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2114343632}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1448538843}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 370}
+  m_Pivot: {x: 0.5, y: 1}
+--- !u!114 &2114343634
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2114343632}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_text: 100
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontSharedMaterials: []
+  m_fontMaterial: {fileID: 0}
+  m_fontMaterials: []
+  m_fontColor32:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+  m_enableVertexGradient: 0
+  m_colorMode: 3
+  m_fontColorGradient:
+    topLeft: {r: 1, g: 1, b: 1, a: 1}
+    topRight: {r: 1, g: 1, b: 1, a: 1}
+    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
+    bottomRight: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColorGradientPreset: {fileID: 0}
+  m_spriteAsset: {fileID: 0}
+  m_tintAllSprites: 0
+  m_StyleSheet: {fileID: 0}
+  m_TextStyleHashCode: -1183493901
+  m_overrideHtmlColors: 0
+  m_faceColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontSize: 150
+  m_fontSizeBase: 150
+  m_fontWeight: 400
+  m_enableAutoSizing: 0
+  m_fontSizeMin: 18
+  m_fontSizeMax: 72
+  m_fontStyle: 0
+  m_HorizontalAlignment: 2
+  m_VerticalAlignment: 1024
+  m_textAlignment: 65535
+  m_characterSpacing: 0
+  m_wordSpacing: 0
+  m_lineSpacing: 0
+  m_lineSpacingMax: 0
+  m_paragraphSpacing: 0
+  m_charWidthMaxAdj: 0
+  m_enableWordWrapping: 1
+  m_wordWrappingRatios: 0.4
+  m_overflowMode: 0
+  m_linkedTextComponent: {fileID: 0}
+  parentLinkedComponent: {fileID: 0}
+  m_enableKerning: 1
+  m_enableExtraPadding: 0
+  checkPaddingRequired: 0
+  m_isRichText: 1
+  m_parseCtrlCharacters: 1
+  m_isOrthographic: 1
+  m_isCullingEnabled: 0
+  m_horizontalMapping: 0
+  m_verticalMapping: 0
+  m_uvLineOffset: 0
+  m_geometrySortingOrder: 0
+  m_IsTextObjectScaleStatic: 0
+  m_VertexBufferAutoSizeReduction: 0
+  m_useMaxVisibleDescender: 1
+  m_pageToDisplay: 1
+  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_isUsingLegacyAnimationComponent: 0
+  m_isVolumetricText: 0
+  m_hasFontAssetChanged: 0
+  m_baseMaterial: {fileID: 0}
+  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!222 &2114343635
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2114343632}
+  m_CullTransparentMesh: 1
 --- !u!1001 &2124542254
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -27259,6 +28285,10 @@ PrefabInstance:
     - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_Name
       value: Tree_Pine (63)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
@@ -27410,6 +28440,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree_Pine (119)
       objectReference: {fileID: 0}
+    - target: {fileID: 1616681395691676, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4232992882761816, guid: 9eefe92fd53341c49930b290d1d37d90, type: 3}
       propertyPath: m_RootOrder
       value: 125
@@ -27497,11 +28531,11 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 181155734}
     m_Modifications:
     - target: {fileID: 3201324897882833252, guid: d5b4a8b4b5b9a4896a58fa96df7f0251, type: 3}
       propertyPath: m_RootOrder
-      value: 11
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 3201324897882833252, guid: d5b4a8b4b5b9a4896a58fa96df7f0251, type: 3}
       propertyPath: m_LocalPosition.x
@@ -27521,7 +28555,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3201324897882833252, guid: d5b4a8b4b5b9a4896a58fa96df7f0251, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 3201324897882833252, guid: d5b4a8b4b5b9a4896a58fa96df7f0251, type: 3}
       propertyPath: m_LocalRotation.y
@@ -27593,6 +28627,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d5b4a8b4b5b9a4896a58fa96df7f0251, type: 3}
+--- !u!4 &860149328220661570 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3201324897882833252, guid: d5b4a8b4b5b9a4896a58fa96df7f0251, type: 3}
+  m_PrefabInstance: {fileID: 860149328220661569}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &2852313759838752709 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3205059907145951364, guid: d5b4a8b4b5b9a4896a58fa96df7f0251, type: 3}
