@@ -10045,7 +10045,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _scoreText: {fileID: 2114343634}
-  _highScoreText: {fileID: 0}
   _scoreMultiplier: 5
 --- !u!1001 &726801333
 PrefabInstance:
@@ -11215,6 +11214,10 @@ PrefabInstance:
     - target: {fileID: 1234689145501694, guid: b2503d0bf03081448ae3d0b4257a08cc, type: 3}
       propertyPath: m_Name
       value: Bush3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1234689145501694, guid: b2503d0bf03081448ae3d0b4257a08cc, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4533779669609080, guid: b2503d0bf03081448ae3d0b4257a08cc, type: 3}
       propertyPath: m_RootOrder
@@ -13658,7 +13661,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
-  m_LocalRotation: {x: 0.10941745, y: 0.00000001816342, z: -0.0000000019993993, w: 0.9939959}
+  m_LocalRotation: {x: 0.10941743, y: -0.000000016585034, z: 0.0000000018256529, w: 0.9939959}
   m_LocalPosition: {x: -3.2, y: 15.6, z: -52.8}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
@@ -20178,7 +20181,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1455855132}
-  m_LocalRotation: {x: 0.10941745, y: 0.00000001816342, z: -0.0000000019993993, w: 0.9939959}
+  m_LocalRotation: {x: 0.10941743, y: -0.000000016585034, z: 0.0000000018256529, w: 0.9939959}
   m_LocalPosition: {x: -3.2, y: 15.6, z: -52.8}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
