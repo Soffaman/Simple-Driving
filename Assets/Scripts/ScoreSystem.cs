@@ -5,10 +5,8 @@ using TMPro;
 
 public class ScoreSystem : MonoBehaviour
 {
-    [SerializeField]
-    private TMP_Text _scoreText;
-    [SerializeField]
-    private float _scoreMultiplier = 5;
+    [SerializeField] private TMP_Text _scoreText;
+    [SerializeField] private float _scoreMultiplier = 5;
 
     public const string HighScoreKey = "HighScore";
 
